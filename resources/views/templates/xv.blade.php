@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="UTF-8"><title>{{ $invitation->title }}</title></head><body><h1>{{ $invitation->title }}</h1><p>Plantilla xv (pendiente de diseño).</p></body></html>
